@@ -7,6 +7,7 @@ import React from 'react'
 // import Navbar from './nested-routing/Navbar'
 // import ShopcartPage from './nested-routing/pages/ShopcartPage'
 import SimpleForm from './form/SimpleForm'
+import Form from './form/Form'
 const App = () => {
   return (
     <>
@@ -19,11 +20,15 @@ const App = () => {
       <UserList/>
       </UserApiProvider> */}
 
-{/*----- nested-routing -----*/}
-   {/* <Navbar/> */}
-  
-  <SimpleForm/>
-      
+      {/*----- nested-routing -----*/}
+      {/* <Navbar/> */}
+
+      {/* <SimpleForm/> */}
+
+
+      <Form />
+
+
     </>
   )
 }
