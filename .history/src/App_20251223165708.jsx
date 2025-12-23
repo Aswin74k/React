@@ -1,5 +1,5 @@
 import React from 'react'
-// import Dashboard from './Dashboard/Dashboard'
+import Dashboard from './Dashboard/Dashboard'
 // import JobForm from './form/JobForm'
 // import Crud from './LocalStorage/Crud'
 // import SessionCrud from './Session-storage/SessionCrud'
@@ -38,7 +38,7 @@ const App = () => {
       {/* <ToDo/> */}
       {/* <Crud/> */}
       {/* <SessionCrud/> */}
-      {/* <Dashboard/> */}
+      <Dashboard
       
 
 

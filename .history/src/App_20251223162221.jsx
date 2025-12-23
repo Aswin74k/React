@@ -1,9 +1,5 @@
 import React from 'react'
-// import Dashboard from './Dashboard/Dashboard'
-// import JobForm from './form/JobForm'
-// import Crud from './LocalStorage/Crud'
-// import SessionCrud from './Session-storage/SessionCrud'
-// import ToDo from './LocalStorage/ToDo'
+import JobForm from './form/JobForm'
 // import { ThemeProvider } from './functional-component/Hooks/useContext/theme/ThemeContext'
 // import Home from './functional-component/Hooks/useContext/theme/Home'
 // import { UserApiProvider } from './functional-component/Hooks/useContext/theme/user-list/UserApiContext'
@@ -34,12 +30,7 @@ const App = () => {
       {/* <Form /> */}
       {/* <Navbar/> */}
       {/* <JobForm/> */}
-      {/* <Crud/> */}
-      {/* <ToDo/> */}
-      {/* <Crud/> */}
-      {/* <SessionCrud/> */}
-      {/* <Dashboard/> */}
-      
+      <C
 
 
     </>
