@@ -35,7 +35,7 @@ const App = () => {
       {/* <Navbar/> */}
       {/* <JobForm/> */}
       {/* <Crud/> */}
-      <ToDo/>
+      {/* <ToDo/> */}
       {/* <Crud/> */}
       {/* <SessionCrud/> */}
       {/* <Dashboard/> */}
