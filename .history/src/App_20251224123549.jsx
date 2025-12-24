@@ -14,7 +14,7 @@ import React from 'react'
 // import SimpleForm from './form/SimpleForm'
 // import Form from './form/Form'
 // import BasicHookForm from "./form/React-Hook-Form/BasicHookForm"
-import Circle from "./Redux/Circle"
+import Circle from "./Redux?"
 const App = () => {
   return (
     <>
@@ -42,7 +42,7 @@ const App = () => {
        {/* <SessionCrud/>  */}
       {/* <Dashboard/> */}
       {/* <BasicHookForm/> */}
-       <Circle/>
+       <circle/>
       
 
 

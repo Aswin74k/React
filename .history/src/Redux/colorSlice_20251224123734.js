@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const colors = ["red", "blue", "green", "yellow", "skyblue", "orange"];
+const colors = ["red", "blue", "green", "yellow", "skyblue", "orange", "olive green"];
 
 const colorSlice = createSlice({
   name: "color",
